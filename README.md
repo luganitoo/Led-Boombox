@@ -3,6 +3,11 @@
 
 ![gif video](https://raw.githubusercontent.com/luganitoo/Led-Boombox/main/demonstration_video1.gif)
 
+
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/6WLHqHHJZ0w)](https://www.youtube.com/watch?v=6WLHqHHJZ0w)
+
+
 Hey there!
 
 This project means a lot to me because it's the one that really got me hooked on coding. 
