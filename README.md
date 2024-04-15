@@ -1,5 +1,7 @@
 
-# Music-Reactive LED Boombox
+# Music-Reactive LED Boombox 🎵
+
+Version with MAX7219:
 
 ![gif video](https://raw.githubusercontent.com/luganitoo/Led-Boombox/main/demonstration_video1.gif)
 
@@ -7,6 +9,11 @@
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/6WLHqHHJZ0w)](https://www.youtube.com/watch?v=6WLHqHHJZ0w)
 
+Version made with serpentine led matrix:
+
+![gif video](/preview.gif)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/bVpiMlJVqK0)](https://www.youtube.com/watch?v=bVpiMlJVqK0)
 
 Hey there!
 
